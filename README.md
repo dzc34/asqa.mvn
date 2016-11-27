@@ -1,4 +1,4 @@
-[![License : AGPL v3](https://img.shields.io/badge/license-AGPL3-blue.svg)](https://github.com/Asqatasun/asqa.mvn/blob/master/LICENSE) [![Release](https://img.shields.io/github/release/asqatasun/asqa.mvn.svg)](https://github.com/Asqatasun/asqa.mvn/releases/latest)
+[![License : AGPL v3](https://img.shields.io/badge/license-AGPL3-blue.svg)](https://github.com/Asqatasun/asqa.mvn/blob/master/LICENSE) [![Docker build : automated](https://img.shields.io/docker/automated/asqatasun/asqa.mvn.svg)](https://hub.docker.com/r/asqatasun/asqa.mvn/) [![Release](https://img.shields.io/github/release/asqatasun/asqa.mvn.svg)](https://github.com/Asqatasun/asqa.mvn/releases/latest)
 
 # Docker Maven for Asqatasun
 
